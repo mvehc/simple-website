@@ -1,0 +1,30 @@
+#content {
+	margin-top:  100px;
+	margin-left:  auto;
+	margin-right:  auto;
+	width:  600px;
+	text-align:  center;
+}
+
+h1 {
+	font-family:  sans-serif;
+
+}
+
+button {
+	margin-top:  40px;
+	background-color:  #BEDCF4;
+	height: 50px;
+	width: 200px;
+	border-radius: 15px;
+	border:  0px;
+}
+
+button:hover {
+	background-color: #7CB9E8;
+}
+
+button:active {
+	background-color:  blue;
+	color:  white;
+}
